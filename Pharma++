@@ -1,0 +1,38 @@
+# Pharma++
+
+**Pharma++** est une solution numérique conçue pour faciliter l'accès aux médicaments au Niger.  
+Elle permet aux utilisateurs de rechercher des produits pharmaceutiques, de vérifier leur disponibilité en temps réel, de comparer les prix dans différentes pharmacies, et de commander avec livraison à domicile.
+
+Ce projet vise à répondre à un besoin urgent dans notre pays : éviter les pertes de temps et les déplacements inutiles pour trouver un médicament.
+
+## 🚀 Fonctionnalités prévues
+
+- Recherche intelligente de médicaments par nom ou molécule
+- Affichage en temps réel de la disponibilité dans les pharmacies partenaires
+- Comparaison des prix
+- Commande en ligne et livraison à domicile
+- Interface simple et adaptée à tous (femmes, enfants, familles)
+
+## 📊 Statut du projet
+
+Le projet est en phase d’analyse des données.  
+Une version prototype sera développée prochainement.
+
+## ⚙️ Technologies envisagées
+
+- Backend : Python (Flask ou Django)
+- Frontend : HTML/CSS + JavaScript
+- Base de données : PostgreSQL ou MySQL
+- API pour géolocalisation des pharmacies
+- Intégration future d’outils d’intelligence artificielle
+
+## 👩‍💻 À propos de la fondatrice
+
+Créé par **Hamidou Garba Roukayatou**  
+Ingénieure en Réseau de Données & Promotrice de Rouky Linens  
+Passionnée par la technologie et l’impact social à travers des solutions numériques utiles.
+
+## 📬 Contact
+
+- Email : [rokyagarba94@gmail.com](roukayatouhamidougarba@gmail.com)
+- Localisation : Maradi, Niger
